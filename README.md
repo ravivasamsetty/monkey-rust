@@ -1,2 +1,2 @@
 # monkey-rust
-Interpreter for monkey in Rust
+In this project, I will be trying to implement an interpreter in Rust (inspired by [Writing An Interpreter In Go](https://interpreterbook.com/))
